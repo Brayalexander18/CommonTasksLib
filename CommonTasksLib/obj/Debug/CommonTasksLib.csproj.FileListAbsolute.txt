@@ -17,8 +17,8 @@ C:\_DESARROLLO\CommonTasksLib\CommonTasksLib\bin\Debug\System.Web.Razor.xml
 C:\_DESARROLLO\CommonTasksLib\CommonTasksLib\bin\Debug\System.Web.WebPages.xml
 C:\_DESARROLLO\CommonTasksLib\CommonTasksLib\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\_DESARROLLO\CommonTasksLib\CommonTasksLib\bin\Debug\System.Web.WebPages.Razor.xml
+C:\_DESARROLLO\CommonTasksLib\CommonTasksLib\obj\Debug\CommonTasksLib.csprojAssemblyReference.cache
 C:\_DESARROLLO\CommonTasksLib\CommonTasksLib\obj\Debug\CommonTasksLib.csproj.CoreCompileInputs.cache
 C:\_DESARROLLO\CommonTasksLib\CommonTasksLib\obj\Debug\CommonTasksLib.csproj.CopyComplete
 C:\_DESARROLLO\CommonTasksLib\CommonTasksLib\obj\Debug\CommonTasks.HelperLib.dll
 C:\_DESARROLLO\CommonTasksLib\CommonTasksLib\obj\Debug\CommonTasks.HelperLib.pdb
-C:\_DESARROLLO\CommonTasksLib\CommonTasksLib\obj\Debug\CommonTasksLib.csprojAssemblyReference.cache

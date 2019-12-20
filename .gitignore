@@ -228,3 +228,13 @@ NetCoreTest.Web/obj/project.assets.json
 NetCoreTest.Web/wwwroot/lib/bootstrap/LICENSE
 NetCoreTest.Web/wwwroot/lib/jquery-validation/LICENSE.md
 NetCoreTest.Web/wwwroot/lib/jquery/LICENSE.txt
+CommonTasks/bin/Release/netcoreapp2.2/CommonTasks.deps.json
+CommonTasks/bin/Release/netcoreapp2.2/CommonTasks.dll
+CommonTasks/bin/Release/netcoreapp2.2/CommonTasks.pdb
+CommonTasks/obj/Release/netcoreapp2.2/CommonTasks.AssemblyInfo.cs
+CommonTasks/obj/Release/netcoreapp2.2/CommonTasks.AssemblyInfoInputs.cache
+CommonTasks/obj/Release/netcoreapp2.2/CommonTasks.assets.cache
+CommonTasks/obj/Release/netcoreapp2.2/CommonTasks.csproj.FileListAbsolute.txt
+CommonTasks/obj/Release/netcoreapp2.2/CommonTasks.csprojAssemblyReference.cache
+CommonTasks/obj/Release/netcoreapp2.2/CommonTasks.dll
+CommonTasks/obj/Release/netcoreapp2.2/CommonTasks.pdb
