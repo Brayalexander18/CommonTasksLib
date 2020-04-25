@@ -238,3 +238,5 @@ CommonTasks/obj/Release/netcoreapp2.2/CommonTasks.csproj.FileListAbsolute.txt
 CommonTasks/obj/Release/netcoreapp2.2/CommonTasks.csprojAssemblyReference.cache
 CommonTasks/obj/Release/netcoreapp2.2/CommonTasks.dll
 CommonTasks/obj/Release/netcoreapp2.2/CommonTasks.pdb
+CommonTasks/obj/project.nuget.cache
+CommonTasks/obj/Release/netcoreapp2.2/CommonTasks.csproj.CoreCompileInputs.cache
